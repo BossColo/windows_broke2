@@ -1,0 +1,8 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data Files
+*.csv
+*.xlsx
+*.pickle
+*.docx
